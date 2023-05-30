@@ -73,7 +73,7 @@ CSS
 
 - **[User can add a task]**
 - **[User can delete a task]**
-- **[User can edit a task]**
+- **[User can edit or update a task]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
